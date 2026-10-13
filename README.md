@@ -1,87 +1,194 @@
-<!-- الهيدر الرئيسي وتوضيح الحالة المهنية -->
 <div align="center">
-  <h1>👋 Hello, I am Mohamed Fahmy.</h1>
-  <p><b>Freelance Data Analyst specializing in Business Information Systems (BIS) | I build data-driven solutions using Python, SQL, Excel, Power BI, and Tableau...</b></p>
-  
-  <!-- شالة أو بادج الحالة -->
-  <p>
-    <img src="https://img.shields.io/badge/🎯_Status-Focusing_on_Data_Analytics_%26_BI-blue?style=for-the-badge" alt="Status">
-    <img src="https://img.shields.io/badge/🎓_Study-BIS_Level_3%2F4_Egypt-orange?style=for-the-badge" alt="Study">
-  </p>
-  
-  <!-- روابط التواصل الاجتماعي (استبدل الروابط بمعرفاتك الحقيقية) -->
-  <p>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+
+<!-- HERO SECTION -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:101C2C,100:123B45&text=MOHAMED%20FAHMY&fontColor=E6EDF3&fontSize=48&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20BIS%20STUDENT&descSize=16&descAlignY=62&descColor=58D6C7" width="100%" alt="Mohamed Fahmy — Data Analyst"/>
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<br><br>
+
+**Turning raw data into meaningful insights and better business decisions.**
+
+*Business Information Systems student passionate about data analytics, business intelligence, and technology.*
+
 </div>
 
-<hr>
+---
 
-<!-- نبذة تعريفية قصيرة -->
-<h3>💡 من أنا؟ (About Me)</h3>
-<ul>
-  <li><b>محلل بيانات مستقل ومستشار مهني:</b> شغوف بتحويل البيانات الخام المعقدة إلى رؤى تسويقية وتشكيلية قابلة للتنفيذ تدعم اتخاذ القرار.</li>
-  <li><b>طالب نظم معلومات الأعمال (BIS):</b> أدرس حالياً في المستويات المتقدمة (Level 3/4) في مصر، وأدمج بين المعرفة الإدارية التقنية وتحليل البيانات.</li>
-  <li><b>التركيز الحالي:</b> تطوير مهارات استخراج البيانات، هندسة البيانات الاستكشافية (EDA)، بناء لوحات التحكم التفاعلية، ومعالجة قواعد البيانات الضخمة.</li>
-</ul>
+## `01` — About Me
 
-<hr>
+```python
+class MohamedFahmy:
+    def __init__(self):
+        self.role = "Aspiring Data Analyst"
+        self.education = "Business Information Systems (BIS)"
+        self.focus = [
+            "Data Analysis",
+            "Business Intelligence",
+            "Data Visualization",
+            "Business Decision Support"
+        ]
+        self.tools = [
+            "Python",
+            "SQL",
+            "Excel",
+            "Power BI"
+        ]
+        self.mindset = "Learn. Analyze. Improve. Repeat."
 
-<!-- المهارات والأدوات التقنية -->
-<h3>🛠️ الأدوات والتقنيات (Tech Stack)</h3>
+    def mission(self):
+        return (
+            "Transforming complex datasets into "
+            "clear insights that support smarter decisions."
+        )
+```
+
+* 🎓 Final-year Business Information Systems student.
+* 📊 Developing practical skills in data analysis and business intelligence.
+* 🐍 Working with Python and SQL to explore, clean, and analyze data.
+* 📈 Interested in dashboards, business performance, and data-driven decisions.
+* 🌱 Continuously learning through hands-on projects and professional training.
+* 🎯 Open to Data Analyst internships and entry-level opportunities.
+
+---
+
+## `02` — Technical Stack
+
 <div align="center">
-  <!-- البرمجة ومعالجة البيانات -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-F37622?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  
-  <br><br>
-  
-  <!-- قواعد البيانات واستعلامات SQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  
-  <br><br>
 
-  <!-- التصور والداشبورد -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+### Data Analysis & Programming
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Programming and development tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+### Business Intelligence & Reporting
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI"/>
+
+### Core Analytical Skills
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-0D1117?style=flat-square&logoColor=white" alt="Data Cleaning"/>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0D1117?style=flat-square" alt="Exploratory Data Analysis"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0D1117?style=flat-square" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-0D1117?style=flat-square" alt="Statistical Analysis"/>
+<img src="https://img.shields.io/badge/Business%20Insights-0D1117?style=flat-square" alt="Business Insights"/>
+
 </div>
 
-<hr>
+---
 
-<!-- المشاريع البارزة (Featured Repositories) -->
-<h3>🚀 المشاريع البارزة (Featured Projects)</h3>
-<table>
-  <tr>
-    width="50%"
-    <td><b>📊 North African Energy & Renewables Analysis</b></td>
-    width="50%"
-    <td><b>🗄️ Banking & E-Commerce SQL Data Cleaning</b></td>
-  </tr>
-  <tr>
-    <td>مشروع تحليلي شامل لتقييم استهلاك الطاقة، تجارة الكهرباء، ومؤشرات الطاقة المتجددة في شمال إفريقيا باستخدام مجموعة بيانات OWID وتصفياتها بـ Python وPandas داخل Jupyter Notebook.</td>
-    <td>تنفيذ استعلامات MySQL معقدة تشمل إنشاء قيود الجداول، تهيئة التواريخ، وتنظيف البيانات متعددة الأعمدة لبيانات القطاع المصرفي والتجارة الإلكترونية.</td>
-  </tr>
-</table>
+## `03` — Featured Projects
 
-<hr>
-
-<!-- إحصائيات GitHub -->
-<h3>📈 إحصائيات حسابي على GitHub</h3>
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-  </p>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58D6C7" alt="Explore my repositories"/>
+</a>
+
+</div>
+
+### ⚡ Energy & Electricity Data Analysis
+
+**Objective:** Explore electricity generation, renewable energy adoption, and changes in energy-sector performance across North African countries.
+
+**Tools:** Python · Pandas · NumPy · Matplotlib
+
+**Focus areas:**
+
+* Comparing electricity generation across countries and years.
+* Analyzing renewable energy shares and long-term trends.
+* Creating visualizations to communicate findings.
+* Identifying patterns while distinguishing correlation from causation.
+
+### 🏦 Banking Data Preprocessing & SQL Analysis
+
+**Objective:** Develop practical skills in data quality, relational databases, and analytical SQL queries using banking-related datasets.
+
+**Tools:** SQL · Python · Pandas
+
+**Focus areas:**
+
+* Data quality assessment and cleaning.
+* Missing values, duplicate records, and data types.
+* Querying structured datasets.
+* Preparing reliable data for downstream analysis.
+
+> Replace these examples with links to your actual project repositories once they are published.
+
+---
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58D6C7&icon_color=58D6C7&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58D6C7&text_color=C9D1D9&langs_count=6" alt="Most used programming languages"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58D6C7&fire=58D6C7&currStreakLabel=58D6C7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=58D6C7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## `05` — Current Focus
+
+<div align="center">
+
+| Area        | Current Direction                                      |
+| :---------- | :----------------------------------------------------- |
+| 🐍 Python   | Data manipulation and exploratory analysis             |
+| 🗄️ SQL     | Querying, joins, aggregation, and analytical queries   |
+| 📊 Excel    | Data cleaning, analysis, and reporting                 |
+| 📈 Power BI | Dashboards and business intelligence                   |
+| 🧠 Business | Translating analytical findings into business insights |
+
+</div>
+
+---
+
+## `06` — Beyond the Code
+
+* 📚 Continuous learning and professional development.
+* 📉 Financial markets and investment analysis.
+* 💡 Technology, business systems, and digital transformation.
+* 🔍 Understanding the story behind the numbers.
+
+---
+
+<div align="center">
+
+### Every dataset has a story. My goal is to uncover it.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58D6C7&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:123B45,100:0D1117" width="100%" alt="Footer"/>
+
 </div>
